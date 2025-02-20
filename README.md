@@ -26,5 +26,5 @@
   Draw conclusions based on data-driven evidence.
   
 # Expected Outcome
-    A comprehensive analysis of the impact and engagement of tweets related to Queen Elizabeth II’s passing, highlighting trends, user engagement metrics, and the effect of        video content on tweet popularity.
+    A comprehensive analysis of the impact and engagement of tweets related to Queen Elizabeth II’s passing, highlighting trends, user engagement metrics, and the effect of video content on tweet popularity.
 
